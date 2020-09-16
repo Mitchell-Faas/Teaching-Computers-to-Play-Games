@@ -4,7 +4,7 @@ Many of us have looked at this and wondered _how does this even work?_ Some went
 further and started looking into how exactly computers learn, but found themselves confused
 by terms like _deep learning, CNNs, policy gradients, Qlearning_ and _reinforcement learning_.
 
-This tutorial is designed to cut straight through the confusion and show you that the ways in
+This tutorial is designed to cut straight through the confusion and show you the ways in
 which computers learn is simultaneously much simpler, elegant, and harder than you thought.
 
 We will take you from being a complete novice in the field to (near) state of the art understanding,
